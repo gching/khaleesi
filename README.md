@@ -1,4 +1,4 @@
-# Khaleesi (Frontend Web Client for AskDrogo)
+# Khaleesi
 
 ![khaleesi](http://s3.amazonaws.com/images.hitfix.com/assets/2402/dragon.png)
 
