@@ -12,7 +12,7 @@
 
 ## Why Khaleesi?
 
-*The next time you raise a hand to me will be the last time you have hands.*
+> The next time you raise a hand to me will be the last time you have hands.
 Yep. Can't do much here.
 
 ## Structure
